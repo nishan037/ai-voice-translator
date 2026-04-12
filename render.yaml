@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: ai-voice-translator
+    env: docker
+    plan: free
+    branch: main
+    rootDir: backend
