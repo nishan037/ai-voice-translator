@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai-whisper
+torch
+googletrans==4.0.0-rc1
+gtts
+python-multipart
